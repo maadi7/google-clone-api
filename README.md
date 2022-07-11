@@ -1,3 +1,5 @@
+LINK FOR THE WEBSITE :- https://gleaming-dolphin-867721.netlify.app
+
 This is a responsive clone of google search engine
 
 Using Tailwind and Rapid API
